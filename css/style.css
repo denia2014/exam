@@ -1,0 +1,95 @@
+
+.name__p {
+	width: auto;
+	height: 60px;
+	background-color: gray;
+}
+.style__z {
+	color: white;
+	font-size: 25px;
+	margin-left: 600px;
+	margin-top: -45px;
+}
+.out__abonent {
+	width: auto;
+	height: auto;
+}
+
+.fio__abon{
+	width: 300px;
+	height: 50px;
+	display: block;
+	background-color: gray;
+    border-radius: 5px;
+    margin-left: 280px;
+}
+
+
+
+.aboent{
+	background: gray;
+	width: 250px;
+	height: 200px;
+	margin: 30px;
+	float: left;
+	text-align: center;
+	padding: 20px;
+	margin-right: 10px;
+	border-radius: 20px;
+	flex-wrap: wrap;
+	background: 2px solid black;
+}
+
+.aboent .name__ab {
+	display: block;
+	width: 290px;
+	height: 50px;
+	margin-left: -20px;
+	margin-top: -20px;
+}
+.aboent .style__tel {
+	display: block;
+	width: 290.5px;
+	height: 25px;
+	margin-left: -20px;
+	margin-top: 20px;
+}
+.tel {
+	color: white;
+	font-size: 25px;
+	padding-right: 50px;
+}
+.aboent .name{
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: white;
+}
+.aboent .cost{
+	font-size: 15px;
+	margin: 30px 0;
+	padding: 20px;
+	color: black;
+}
+.aboent .style__adres {
+	display: block;
+	width: 290.5px;
+	height: 70px;
+	margin-left: -20px;
+	margin-top: 20px;
+}
+.aboent .cost {
+	color: white;
+	font-size: 17px;
+	padding-right: 70px;
+}
+.aboent .name {
+	margin-right: 50px;
+}
+.reg {
+	text-decoration: none;
+	font-size: 20px;
+}
+.style__buttom {
+	margin: 20px;
+}
